@@ -9,7 +9,6 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: y.hirayama
 role: Backend Engineer
 main: [C#/.NET, PHP, Go]
 also: [TypeScript, Python]
